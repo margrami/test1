@@ -9,6 +9,7 @@ https://developer.apple.com/metal/tensorflow-plugin/
 
 to run the application from the directory
 ./alphanumeric_app
+
 python main.py
 
 
